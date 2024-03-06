@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sbic vYOkbe</name>
+   <tag></tag>
+   <elementGuidId>dfee6c4d-760d-4c9c-aa90-92353462377b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Alh6id']/div/div/ul/li/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sbic.vYOkbe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ddfec856-2a7b-4745-9245-6fcc6182887b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sbic vYOkbe</value>
+      <webElementGuid>fa4fae54-d4d3-41b5-8a04-2ff0e3794bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4oRanbbNpKdc710BvvrDJhN4yAftScqpnFtAe-gnsDGyGGkWPaMATbU&amp;s=10</value>
+      <webElementGuid>5ae291cd-1846-45f1-8204-8bc3c0c46114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Alh6id&quot;)/div[@class=&quot;erkvQe&quot;]/div[@class=&quot;OBMEnb&quot;]/ul[@class=&quot;G43f7e&quot;]/li[@class=&quot;sbct PZPZlf sbre sbhl&quot;]/div[@class=&quot;eIPGRd&quot;]/div[@class=&quot;sbic vYOkbe&quot;]</value>
+      <webElementGuid>fb96607a-a6cf-4734-86df-eb4feea2a4ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Alh6id']/div/div/ul/li/div/div</value>
+      <webElementGuid>217aa40a-17bd-4d4b-92fa-a1d3554858c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div</value>
+      <webElementGuid>8ff0f5fa-7f7c-4387-9f5b-564ce22e5454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

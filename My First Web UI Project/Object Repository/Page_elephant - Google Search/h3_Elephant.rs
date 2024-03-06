@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Elephant</name>
+   <tag></tag>
+   <elementGuidId>9481868d-3139-4a09-ad01-1efb05e9b156</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kp-wp-tab-overview']/div/div/div/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>bfb50c65-f664-4b9a-8e60-c60394ed95e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>9dd6d245-6562-4239-9ca7-ef7ae5b4ad3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elephant</value>
+      <webElementGuid>2aaaaebf-9c81-4762-a4cc-d87e892d4357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kp-wp-tab-cont-overview&quot;)/div[@class=&quot;xDKLO&quot;]/div[1]/div[1]/div[@id=&quot;kp-wp-tab-overview&quot;]/div[@class=&quot;TzHB6b cLjAic K7khPe LMRCfc&quot;]/div[1]/div[@class=&quot;sATSHe&quot;]/div[1]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;srKDX cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e ieodic&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>2fa25a32-3e7e-48a0-8c25-dfc1303c4396</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kp-wp-tab-overview']/div/div/div/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>ce20b7a6-410e-4515-bdca-534cf8ecd3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e7b1ff40-d89e-4df6-a6e2-7d956b33008e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Elephant' or . = 'Elephant')]</value>
+      <webElementGuid>a7f1580e-37f1-45c9-b79c-63fd33fb7f49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

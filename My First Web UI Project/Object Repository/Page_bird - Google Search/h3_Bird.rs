@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Bird</name>
+   <tag></tag>
+   <elementGuidId>c59540da-d1d4-4127-bdde-f62c03d57da7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kp-wp-tab-overview']/div[2]/div/div/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>3f5126e4-7951-4c74-9112-5fe9625a1dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>af56f6eb-e521-4f95-97c5-a8c206fa282f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bird</value>
+      <webElementGuid>e9f148bb-0a63-4e16-9107-b900ac57c485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kp-wp-tab-cont-overview&quot;)/div[@class=&quot;xDKLO&quot;]/div[1]/div[1]/div[@id=&quot;kp-wp-tab-overview&quot;]/div[@class=&quot;TzHB6b cLjAic K7khPe&quot;]/div[1]/div[@class=&quot;sATSHe&quot;]/div[1]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;srKDX cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e ieodic&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>de2b25b2-3949-4934-bb6e-1e7ff826187e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kp-wp-tab-overview']/div[2]/div/div/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>d6508689-924a-4900-9d31-6a505ee2eae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>5702b52f-6a17-4b12-804c-64bdcc94bac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Bird' or . = 'Bird')]</value>
+      <webElementGuid>747c9350-da9b-4e7a-9a79-5cdc211bb114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alligator leather</name>
+   <tag></tag>
+   <elementGuidId>75321e66-c442-4353-9820-9d48b0a57c9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mw-content-ltr.mw-parser-output > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9991a330-20b6-418f-a477-e9a1efff8ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Alligator_leather</value>
+      <webElementGuid>9a63a9f5-6e5d-4d51-94e7-d0a73db46270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alligator leather</value>
+      <webElementGuid>f808158d-99b9-4721-a303-2446e1da0d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>1a03306f-b3a5-462e-815e-805e631911a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/ul/li/a</value>
+      <webElementGuid>0d377c09-ce83-44a7-ab32-d590b001dbab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Alligator leather')]</value>
+      <webElementGuid>f1888964-10bb-4c84-93e1-0a90531df7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Alligator_leather')]</value>
+      <webElementGuid>4aa5b2cb-8e0b-4eea-a981-90a4a41237fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/ul/li/a</value>
+      <webElementGuid>b15a47a9-b444-4b33-93f9-cdc949a56a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Alligator_leather' and (text() = 'Alligator leather' or . = 'Alligator leather')]</value>
+      <webElementGuid>b264d8ee-90e4-4db6-8d76-10369b3b3ae0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

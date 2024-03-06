@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Orleans, Louisiana</name>
+   <tag></tag>
+   <elementGuidId>2f654518-394a-46ed-b3ee-797484f65582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2) > a.mw-redirect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>729a4cbf-a0d0-4284-81c4-3e46104ae91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/New_Orleans,_Louisiana</value>
+      <webElementGuid>694e94f3-70a2-4735-bf0b-8aa61289ab81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-redirect</value>
+      <webElementGuid>c0ac421b-cd9d-40d2-af6a-342a4f3c059e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Orleans, Louisiana</value>
+      <webElementGuid>0b0e0768-2e7c-40b1-9738-31af18ba0d64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/p[2]/a[@class=&quot;mw-redirect&quot;]</value>
+      <webElementGuid>cbe8e9d5-33bd-499e-9163-1124e9312505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/p[2]/a</value>
+      <webElementGuid>7bb3d490-0590-4853-97d9-cfdca556eaf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'New Orleans, Louisiana')])[2]</value>
+      <webElementGuid>a4db88cc-5fac-44c5-89ec-ddc7b57e2794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/wiki/New_Orleans,_Louisiana')])[2]</value>
+      <webElementGuid>7e840964-3d94-4e47-b7ef-a1adbf76aee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>48241d6c-af15-4ef5-9952-4ba200c190fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/New_Orleans,_Louisiana' and (text() = 'New Orleans, Louisiana' or . = 'New Orleans, Louisiana')]</value>
+      <webElementGuid>c8eb5c09-c6dd-4234-8eea-a88fda551a7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

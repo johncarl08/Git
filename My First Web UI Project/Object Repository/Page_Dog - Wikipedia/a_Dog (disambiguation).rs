@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dog (disambiguation)</name>
+   <tag></tag>
+   <elementGuidId>57072fbd-d92c-448e-a1b2-ceee11ecc192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-disambig</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>afa565d0-573d-400d-8e8a-632d640b3157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Dog_(disambiguation)</value>
+      <webElementGuid>38b05487-d926-45a2-b5b3-16efc3caa574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-disambig</value>
+      <webElementGuid>9e52f24c-e613-4829-af79-9aad3c1021b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dog (disambiguation)</value>
+      <webElementGuid>5551474d-f2d8-43c5-93e5-de49bf86e9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/div[@class=&quot;hatnote navigation-not-searchable&quot;]/a[@class=&quot;mw-disambig&quot;]</value>
+      <webElementGuid>78f12565-0af7-49c3-ad80-4ac58de883c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      <webElementGuid>a2369b04-90cf-4199-a73c-de3016cd6a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dog (disambiguation)')]</value>
+      <webElementGuid>d93d6245-a14a-4a93-92d9-cc148e0db6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Dog_(disambiguation)')]</value>
+      <webElementGuid>d1d9d899-2457-4ad6-828a-c7f10cd391a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/a</value>
+      <webElementGuid>6b8cae94-826e-4306-8cd2-6181a66fc0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Dog_(disambiguation)' and (text() = 'Dog (disambiguation)' or . = 'Dog (disambiguation)')]</value>
+      <webElementGuid>f1dd8a0f-e39a-4970-a8e7-95089d5d62d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_shoulder girdle</name>
+   <tag></tag>
+   <elementGuidId>d3781189-d5ac-4625-ad00-202e8afba63a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/p[2]/a[16]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(16)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f051d9c-9b09-45b6-8cb3-fdefa23bf95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Shoulder_girdle</value>
+      <webElementGuid>0a76a08d-8858-4fce-baf3-bad3a50e504d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>shoulder girdle</value>
+      <webElementGuid>1ad0d1a2-6109-4d81-a51a-367216fa156b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/p[2]/a[16]</value>
+      <webElementGuid>60302d8a-440b-4267-b6f5-9ae1c1622c8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/p[2]/a[16]</value>
+      <webElementGuid>0aed3cf0-14a7-4d8c-a5f2-e5276afbc5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'shoulder girdle')]</value>
+      <webElementGuid>b4659724-9c30-41ef-a2ff-e5e4de554102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Shoulder_girdle')]</value>
+      <webElementGuid>cc9013ca-2c06-4f4a-8fa7-aef95c6f8f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[16]</value>
+      <webElementGuid>be17c3ff-f9d6-4c6c-84a1-c5dcefc2a6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Shoulder_girdle' and (text() = 'shoulder girdle' or . = 'shoulder girdle')]</value>
+      <webElementGuid>e63dea88-3b04-4eed-b149-6f9bfb6ec7cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

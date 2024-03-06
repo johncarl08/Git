@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Elephant (disambiguation)</name>
+   <tag></tag>
+   <elementGuidId>3855d944-0b89-4d92-bf64-64aec6d96791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-disambig</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c3d78526-caaa-498d-b822-4a94381a4e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Elephant_(disambiguation)</value>
+      <webElementGuid>f15a8a0b-8c75-44f9-9cd2-e0fe7d4dd74a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-disambig</value>
+      <webElementGuid>f37c5b41-bbb9-46db-af63-f0e0429a77b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elephant (disambiguation)</value>
+      <webElementGuid>552c3f22-413f-4708-933d-51fb1a226617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/div[@class=&quot;hatnote navigation-not-searchable&quot;]/a[@class=&quot;mw-disambig&quot;]</value>
+      <webElementGuid>ae448771-e8e6-4c55-a59c-1e026eec6d38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/div[2]/a[2]</value>
+      <webElementGuid>a2985547-48d1-4997-bd3c-ca24ac897136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Elephant (disambiguation)')]</value>
+      <webElementGuid>c6900206-009d-464c-ab64-08c8913ce6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Elephant_(disambiguation)')]</value>
+      <webElementGuid>36d47264-0500-4650-9c39-f3d567fcb838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>2cc03766-811b-4628-932c-c1dd8f67a90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Elephant_(disambiguation)' and (text() = 'Elephant (disambiguation)' or . = 'Elephant (disambiguation)')]</value>
+      <webElementGuid>73781969-9b5b-49d6-ad15-ab6bafb5c5c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

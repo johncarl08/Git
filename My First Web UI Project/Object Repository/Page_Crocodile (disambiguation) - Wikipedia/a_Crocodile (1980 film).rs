@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Crocodile (1980 film)</name>
+   <tag></tag>
+   <elementGuidId>f2ffdfef-4af6-4ca4-94d1-79e3c163a5e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mw-content-ltr.mw-parser-output > ul > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a0514946-4719-4eb6-89c8-0b1919cf8c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Crocodile_(1980_film)</value>
+      <webElementGuid>e868d309-2f07-4661-968f-358482ae800d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crocodile (1980 film)</value>
+      <webElementGuid>88e135fc-7e7b-4d1e-8bc4-1019d47503d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>f6e7fe32-fa28-491f-9ae1-e35c9f7d65d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/ul/li[2]/a</value>
+      <webElementGuid>a297a94f-9393-4aad-9c7d-3d94461eb752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Crocodile_(1980_film)')]</value>
+      <webElementGuid>90f3ccb3-1205-4b1a-9c8e-fa44731a667a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/ul/li[2]/a</value>
+      <webElementGuid>0f45ac43-0b04-408e-952b-212931f98e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Crocodile_(1980_film)' and (text() = 'Crocodile (1980 film)' or . = 'Crocodile (1980 film)')]</value>
+      <webElementGuid>716bf9ae-edb9-45f4-b904-6487eeb1159b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

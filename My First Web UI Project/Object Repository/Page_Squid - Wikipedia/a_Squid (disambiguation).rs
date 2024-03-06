@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Squid (disambiguation)</name>
+   <tag></tag>
+   <elementGuidId>6cfb21f1-56c4-4927-9c34-5572b2248f5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-disambig</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff968a5e-b561-4e4c-8d5c-4c551fd6c541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Squid_(disambiguation)</value>
+      <webElementGuid>d671d97f-d491-4335-b8e0-e1aca6ac30fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-disambig</value>
+      <webElementGuid>d1ce23c4-bcc2-4c51-b665-9a96d1b33f0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Squid (disambiguation)</value>
+      <webElementGuid>1d57cf45-429c-456a-9aa7-44b3c01f31a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/div[@class=&quot;hatnote navigation-not-searchable&quot;]/a[@class=&quot;mw-disambig&quot;]</value>
+      <webElementGuid>9c21998d-64cd-41d5-a334-060d0d273963</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      <webElementGuid>8ee06532-ccf4-4c26-bbaa-b8eeb0e67e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Squid (disambiguation)')]</value>
+      <webElementGuid>658dfe06-551c-4038-8125-2a7f8a62caaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Squid_(disambiguation)')]</value>
+      <webElementGuid>140163e6-6f22-4224-8221-a4077ff7c247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/a</value>
+      <webElementGuid>ee50245c-acfc-4647-8783-3ddbb8518cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Squid_(disambiguation)' and (text() = 'Squid (disambiguation)' or . = 'Squid (disambiguation)')]</value>
+      <webElementGuid>ef5cdc32-d731-48f0-8465-4995f59975a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

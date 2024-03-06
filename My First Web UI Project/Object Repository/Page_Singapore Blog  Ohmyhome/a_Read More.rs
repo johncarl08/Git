@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read More</name>
+   <tag></tag>
+   <elementGuidId>126c1d98-3107-4626-97a6-6ff2b5bd844c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Read More ›')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.elementor-post__read-more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a13f352a-eb32-4053-910e-c45770412864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-post__read-more</value>
+      <webElementGuid>a0d95fbd-ae6f-485f-9877-a9982d4bdce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ohmyhome.com/en-sg/blog/timeline-selling-hdb-resale-flat-hdb-resale-procedure/</value>
+      <webElementGuid>14f17164-5f50-4645-aac2-8b429c5ea449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Read more about The Ultimate Guide on How to Sell Your HDB Resale Flat in 2024</value>
+      <webElementGuid>739c0ffe-ba2a-49a9-83bd-e45b9e24693b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>5210b56e-4996-4bef-9fd8-c34b8d887d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read More ›</value>
+      <webElementGuid>39c1537c-6720-41ba-9a81-e87f5d24cbce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-18651 page-parent page-child parent-pageid-7042 no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-18651 elementor-page-51485 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-51485 elementor-location-single post-18651 page type-page status-publish hentry country-en-sg&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-40d7b841 elementor-section-full_width elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7eacb482&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-2582c8ce elementor-widget elementor-widget-theme-post-content&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor elementor-18651&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-aa3e9b3 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-28b17832&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-4d0510a8 elementor-grid-1 elementor-grid-tablet-3 elementor-hidden-mobile elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid elementor-has-item-ratio&quot;]/article[@class=&quot;elementor-post elementor-grid-item post-21659 post type-post status-publish format-standard has-post-thumbnail hentry category-hdb-blog category-resale-hdb category-en-sg tag-3-room tag-3gen tag-4-room tag-5-room tag-executive-apartment tag-featured tag-maisonette tag-mature-estate tag-non-mature-estate tag-property-agent tag-sell-hdb country-en-sg&quot;]/div[@class=&quot;elementor-post__text&quot;]/a[@class=&quot;elementor-post__read-more&quot;]</value>
+      <webElementGuid>0a00e3bf-4e6f-490f-b4a8-0a768d9cda91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Read More ›')]</value>
+      <webElementGuid>e5a35d49-3bb1-44a8-96c9-19f146e93c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ohmyhome.com/en-sg/blog/timeline-selling-hdb-resale-flat-hdb-resale-procedure/')])[3]</value>
+      <webElementGuid>9884bb53-7f37-4d75-b918-afd30991d28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/a</value>
+      <webElementGuid>0276d743-ae96-4e56-bb9c-2c64c653ae38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ohmyhome.com/en-sg/blog/timeline-selling-hdb-resale-flat-hdb-resale-procedure/' and (text() = 'Read More ›' or . = 'Read More ›')]</value>
+      <webElementGuid>e4ef930e-4755-437c-adc9-c6cc0df1ea02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Parrot (disambiguation)</name>
+   <tag></tag>
+   <elementGuidId>13a11e48-70aa-447f-8b11-0ffca511d586</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-disambig</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8fce7621-2e0e-4ff0-b742-1387471c08f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Parrot_(disambiguation)</value>
+      <webElementGuid>07d3b8d6-6fd4-4802-8974-8d509c6df63b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-disambig</value>
+      <webElementGuid>e8cf4f03-b587-493d-bf0c-dab52fecb36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Parrot (disambiguation)</value>
+      <webElementGuid>861bfafa-5db7-4e99-a3e2-0a3cbefa9bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/div[@class=&quot;hatnote navigation-not-searchable&quot;]/a[@class=&quot;mw-disambig&quot;]</value>
+      <webElementGuid>ea753412-c800-47ac-8083-97a445100a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      <webElementGuid>adc83b58-e82c-48c9-8581-331697a463a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Parrot (disambiguation)')]</value>
+      <webElementGuid>2939da70-161a-43fe-9ed7-ab3910a1ed98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Parrot_(disambiguation)')]</value>
+      <webElementGuid>d6f72544-ee12-4058-818e-05e68448365b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/a</value>
+      <webElementGuid>5a019da7-d59a-43d4-82ae-561894543e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Parrot_(disambiguation)' and (text() = 'Parrot (disambiguation)' or . = 'Parrot (disambiguation)')]</value>
+      <webElementGuid>8b16cf84-3191-458a-8ba7-086df6c57a74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

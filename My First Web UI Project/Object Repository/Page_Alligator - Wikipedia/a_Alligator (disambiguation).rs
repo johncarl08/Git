@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alligator (disambiguation)</name>
+   <tag></tag>
+   <elementGuidId>008aafeb-29b4-4ec2-971d-f4ea83d9a503</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-disambig</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1534448-1041-4a04-93ab-2b8a1ac070c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Alligator_(disambiguation)</value>
+      <webElementGuid>46dbd73c-493f-479b-93d6-d063f9be37ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-disambig</value>
+      <webElementGuid>52e3cdaa-0f5b-4034-b494-2d654e27d0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alligator (disambiguation)</value>
+      <webElementGuid>8748e5d2-89e4-455f-89ab-3ae2d6a321bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/div[@class=&quot;hatnote navigation-not-searchable&quot;]/a[@class=&quot;mw-disambig&quot;]</value>
+      <webElementGuid>74715935-3951-4810-879a-7074122636ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/div[2]/a</value>
+      <webElementGuid>81a72f6f-e23d-4c42-b6e9-b384310af5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Alligator (disambiguation)')]</value>
+      <webElementGuid>1aa40d46-6be8-4655-9c93-5f5df83b55dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Alligator_(disambiguation)')]</value>
+      <webElementGuid>9d9e7a14-05c3-4082-878b-041867c3d84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/a</value>
+      <webElementGuid>3cebb6b5-41c1-46a0-82e5-0396795301b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Alligator_(disambiguation)' and (text() = 'Alligator (disambiguation)' or . = 'Alligator (disambiguation)')]</value>
+      <webElementGuid>a5325887-42c1-4fd3-9101-2af61ec42aa4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

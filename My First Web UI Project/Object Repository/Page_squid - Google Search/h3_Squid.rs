@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Squid</name>
+   <tag></tag>
+   <elementGuidId>9eb3303f-a274-4bd3-ab8f-f8da873506b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kp-wp-tab-overview']/div/div/div/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4c8adc71-126b-4162-a4a5-3b4ff7214e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>b126b0ea-8809-4437-87d5-944db31ca7ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Squid</value>
+      <webElementGuid>32042169-29f1-4003-86ba-6add9c08747d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kp-wp-tab-cont-overview&quot;)/div[@class=&quot;xDKLO&quot;]/div[1]/div[1]/div[@id=&quot;kp-wp-tab-overview&quot;]/div[@class=&quot;TzHB6b cLjAic K7khPe LMRCfc&quot;]/div[1]/div[@class=&quot;sATSHe&quot;]/div[1]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;srKDX cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e ieodic&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>13224c3e-06c9-4127-b926-b2b37d36d1c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kp-wp-tab-overview']/div/div/div/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>9b2ab9b3-25be-465a-b84e-e277cc7547c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>1fbf340a-bcea-4eea-ac37-8c1dd251d4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Squid' or . = 'Squid')]</value>
+      <webElementGuid>09748743-de48-4351-a882-087abac032f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

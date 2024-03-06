@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SharkInfraclass of predatory cartilaginous fish</name>
+   <tag></tag>
+   <elementGuidId>7a556451-e81f-42c9-a68f-3589dbff2d99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='typeahead-suggestions']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.suggestion-link.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c6f93d03-7abe-41a5-bba5-d4fc77515c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>suggestion-link active</value>
+      <webElementGuid>25d8a83b-b94e-459f-b3be-789b6dbac7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://en.wikipedia.org/wiki/Shark</value>
+      <webElementGuid>57bc3e34-1737-4f07-bfb1-e79a7caa1397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SharkInfraclass of predatory cartilaginous fish</value>
+      <webElementGuid>70ad7f2c-6e87-401b-a87f-d42c56ad35f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typeahead-suggestions&quot;)/div[@class=&quot;suggestions-dropdown&quot;]/a[@class=&quot;suggestion-link active&quot;]</value>
+      <webElementGuid>c19ef98c-7c93-4504-96d3-60986e4a3893</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='typeahead-suggestions']/div/a</value>
+      <webElementGuid>65e7baad-ee3c-4f47-80ac-39d002bc2542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://en.wikipedia.org/wiki/Shark')]</value>
+      <webElementGuid>0c583e61-3885-4bb8-8c90-3e2fffc4ae31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>139e3899-1daa-4b68-95c7-b0b239afe1de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://en.wikipedia.org/wiki/Shark' and (text() = 'SharkInfraclass of predatory cartilaginous fish' or . = 'SharkInfraclass of predatory cartilaginous fish')]</value>
+      <webElementGuid>4e1c5e2d-59b6-468e-b007-ed16ef5715ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

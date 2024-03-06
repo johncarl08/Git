@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_segmented worms</name>
+   <tag></tag>
+   <elementGuidId>ee00233a-d1db-45f1-a6f7-9b7782314163</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/p[2]/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-redirect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e286f352-1600-4edb-9ac6-6344600ef3a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Segmented_worm</value>
+      <webElementGuid>91b96b28-6743-48a3-8e13-ee9f5aa05fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-redirect</value>
+      <webElementGuid>5cb8fb31-1d1c-4fd9-a642-36d241a99eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>segmented worms</value>
+      <webElementGuid>31583c84-83b8-48e5-ba7d-9a4372f75ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/p[2]/a[@class=&quot;mw-redirect&quot;]</value>
+      <webElementGuid>5c0d5cfd-694a-405d-b67c-13095732e348</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/p[2]/a[3]</value>
+      <webElementGuid>639e0b00-7e80-4e36-b6a4-a203a9ea5e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'segmented worms')]</value>
+      <webElementGuid>4ecd117c-d7f9-41c3-ae60-4c588bbfd7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Segmented_worm')]</value>
+      <webElementGuid>06343bc5-b218-4685-bc8e-e6066f48ed59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>ca390bec-5bd3-4f0e-8bda-26ea5e4dc955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Segmented_worm' and (text() = 'segmented worms' or . = 'segmented worms')]</value>
+      <webElementGuid>bd2cb3df-4a1e-4517-91e5-d3e3845da0c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

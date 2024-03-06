@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read More</name>
+   <tag></tag>
+   <elementGuidId>77c8f453-174e-4e55-9bd7-4dbbc0e33aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Read More ›')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.elementor-post__read-more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2b2171e-d8a6-4ab1-83c3-0b255193f522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-post__read-more</value>
+      <webElementGuid>71d7ff4e-625e-49c2-b5ac-b9a72f0ec4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ohmyhome.com/en-ph/blog/dmci-valeron-tower-exquisite/</value>
+      <webElementGuid>41a9573f-9354-4e55-a9bc-2dcd78fbc01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Read more about The Valeron Tower: Where Exquisite Address Meets Convenient Access</value>
+      <webElementGuid>142c76af-aa6e-4815-8fb9-eb4404213a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>452ce39f-902b-42d4-b711-31b800cbe5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read More ›</value>
+      <webElementGuid>76368618-ebbe-4235-a7d8-c903fc021668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;post-template-default single single-post postid-75386 single-format-standard no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page-24723 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-24723 elementor-location-single post-75386 post type-post status-publish format-standard has-post-thumbnail hentry category-property-type-location tag-best-investment tag-commercial tag-condominium tag-house-and-lot tag-investing tag-ohmyhome tag-property-buying tag-real-estate tag-residential tag-townhouse country-en-ph&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-7c2fed9f elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4f7b2b1a&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/section[@class=&quot;elementor-section elementor-inner-section elementor-element elementor-element-26256f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5f4049ae&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-6f2579b3 elementor-grid-tablet-3 elementor-grid-3 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid elementor-has-item-ratio&quot;]/article[@class=&quot;elementor-post elementor-grid-item post-75881 post type-post status-publish format-standard has-post-thumbnail hentry category-location-guides category-featured-philippines category-property-guides-philippines category-property-type tag-condominium tag-investing tag-market-insights tag-metro-manila tag-property-buying tag-real-estate country-en-ph&quot;]/div[@class=&quot;elementor-post__text&quot;]/a[@class=&quot;elementor-post__read-more&quot;]</value>
+      <webElementGuid>d606d8c8-df7e-4de6-9d2e-e91fa58d52e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Read More ›')]</value>
+      <webElementGuid>e95eafeb-4484-47b5-95de-a622e661a362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ohmyhome.com/en-ph/blog/dmci-valeron-tower-exquisite/')])[3]</value>
+      <webElementGuid>b5018e7c-f2ea-4234-93f3-83b1841a1d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/a</value>
+      <webElementGuid>af546c9f-02f8-4d11-b750-9e5b85f81766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ohmyhome.com/en-ph/blog/dmci-valeron-tower-exquisite/' and (text() = 'Read More ›' or . = 'Read More ›')]</value>
+      <webElementGuid>560dfc56-dca0-4e18-a37a-afc2cb1b8a29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

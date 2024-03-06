@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Play Video</name>
+   <tag></tag>
+   <elementGuidId>5f93b0e1-ad18-447a-b4d1-a51717e4a76d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/section[2]/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-custom-embed-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8fdd8430-b31c-4ac1-a2dc-beb2cd224ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-custom-embed-play</value>
+      <webElementGuid>ea3605a7-b46b-4850-9aef-3f0881986feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>05f58364-1c95-47bf-b730-12f06c3e236e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Play Video</value>
+      <webElementGuid>2bbf59ba-f057-4ab4-824d-12241e3c1036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>42885144-330e-42f2-8514-0259ed9a5313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play Video</value>
+      <webElementGuid>ba603b53-c420-4934-ba26-4195419857d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-69493 page-parent page-child parent-pageid-7042 no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-69493 elementor-page-51485 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-51485 elementor-location-single post-69493 page type-page status-publish has-post-thumbnail hentry country-en-sg&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-40d7b841 elementor-section-full_width elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7eacb482&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-2582c8ce elementor-widget elementor-widget-theme-post-content&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor elementor-69493&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-5b7a4ea2 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3714d281&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/section[@class=&quot;elementor-section elementor-inner-section elementor-element elementor-element-6ee0425b elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-75dd00b9&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-140d39d7 omh-homer-video-wrapper elementor-widget elementor-widget-video&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-wrapper elementor-open-inline&quot;]/div[@class=&quot;elementor-custom-embed-image-overlay rocket-lazyload entered lazyloaded&quot;]/div[@class=&quot;elementor-custom-embed-play&quot;]</value>
+      <webElementGuid>f538a0bb-1095-4b87-9e4e-cb0cc97c000f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/section[2]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>c08d617e-f712-4a41-a4d4-80e461ea9d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Play Video' or . = 'Play Video')]</value>
+      <webElementGuid>acd51fa1-619f-4e62-b4ff-73be17499087</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

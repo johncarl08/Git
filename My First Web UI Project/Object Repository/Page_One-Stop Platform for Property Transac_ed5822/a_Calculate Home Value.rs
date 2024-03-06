@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Calculate Home Value</name>
+   <tag></tag>
+   <elementGuidId>9a5f147b-cdfe-4e7b-a9d0-c8cc780c343b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='en_sg_new_homepage_get_free_consultation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#en_sg_new_homepage_get_free_consultation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3cbbefdb-2343-49e7-9b85-9484e640b9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-button elementor-button-link elementor-size-xs</value>
+      <webElementGuid>7069c025-ac9e-4b6e-a535-897104437512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ohmyhome.com/en-sg/homer/?utm_source=homepage&amp;utm_medium=HomerAI&amp;utm_campaign=banner&amp;</value>
+      <webElementGuid>bda2b722-efdf-4860-938a-6babbb97ab71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>en_sg_new_homepage_get_free_consultation</value>
+      <webElementGuid>382ec9ab-8dc2-444c-95cc-2e1145ef6305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculate Home Value</value>
+      <webElementGuid>b5ba7d64-7ca7-4533-95c9-163249b24aeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-7042 page-parent no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-7042 elementor-page-51485 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-51485 elementor-location-single post-7042 page type-page status-publish has-post-thumbnail hentry country-en-sg&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-40d7b841 elementor-section-full_width elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7eacb482&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-2582c8ce elementor-widget elementor-widget-theme-post-content&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor elementor-7042&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-731d785 elementor-section-height-min-height omh-banner-wvideo elementor-section-items-top elementor-hidden-mobile elementor-section-boxed elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c9fb68b&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-f153d4f e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-3ff9c53 elementor-widget__width-auto elementor-widget-tablet__width-auto elementor-widget-mobile__width-auto elementor-mobile-align-center elementor-widget elementor-widget-button&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-button-wrapper&quot;]/a[@id=&quot;en_sg_new_homepage_get_free_consultation&quot;]</value>
+      <webElementGuid>b3dbcbf2-3e47-4b92-9e7d-78fb1846de55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='en_sg_new_homepage_get_free_consultation']</value>
+      <webElementGuid>172723ce-8cb8-4e26-9a0f-3287d34c7b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ohmyhome.com/en-sg/homer/?utm_source=homepage&amp;utm_medium=HomerAI&amp;utm_campaign=banner&amp;')]</value>
+      <webElementGuid>6e9142f0-1be9-4ec4-9929-527c3350b0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/a</value>
+      <webElementGuid>0566b1f8-a872-42b8-98bf-4684a302649b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ohmyhome.com/en-sg/homer/?utm_source=homepage&amp;utm_medium=HomerAI&amp;utm_campaign=banner&amp;' and @id = 'en_sg_new_homepage_get_free_consultation' and (text() = 'Calculate Home Value' or . = 'Calculate Home Value')]</value>
+      <webElementGuid>980e2b44-d388-47f5-ada5-4c3966fa954c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

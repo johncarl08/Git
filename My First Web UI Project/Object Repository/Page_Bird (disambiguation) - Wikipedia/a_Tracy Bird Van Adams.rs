@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tracy Bird Van Adams</name>
+   <tag></tag>
+   <elementGuidId>a5fef889-c2b2-4754-bb45-c3b1303a0995</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mw-redirect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>abe0b7aa-8ed8-463a-b017-ecec5f240a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Tracy_%22Bird%22_Van_Adams</value>
+      <webElementGuid>4c034408-d415-4b76-97c6-cf7e82ba7146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-redirect</value>
+      <webElementGuid>8e465e2d-8484-43b5-8442-e14e515730c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tracy &quot;Bird&quot; Van Adams</value>
+      <webElementGuid>80c6665d-6f6b-48c3-8ed4-450b0e82ab71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-content-ltr mw-parser-output&quot;]/ul[1]/li[1]/a[@class=&quot;mw-redirect&quot;]</value>
+      <webElementGuid>f128155d-5438-4e03-8d8b-0372daf49d7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/ul/li/a</value>
+      <webElementGuid>66d89d07-2506-45aa-8af5-eaeaef7d9f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tracy &quot;Bird&quot; Van Adams')]</value>
+      <webElementGuid>f750b84e-ed42-4763-92a3-25506e8be67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Tracy_%22Bird%22_Van_Adams')]</value>
+      <webElementGuid>9c5ff6e7-ce71-4237-b271-c5fea796e0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/ul/li/a</value>
+      <webElementGuid>fbf6c0d2-bfab-4b1b-8f6f-3bd533a46b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Tracy_%22Bird%22_Van_Adams' and (text() = 'Tracy &quot;Bird&quot; Van Adams' or . = 'Tracy &quot;Bird&quot; Van Adams')]</value>
+      <webElementGuid>b7d5e9d3-a11e-44e2-b746-580db63dc5dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

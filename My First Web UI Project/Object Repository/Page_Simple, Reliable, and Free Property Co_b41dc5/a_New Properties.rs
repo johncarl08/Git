@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Properties</name>
+   <tag></tag>
+   <elementGuidId>ca522a09-05f5-47d8-af00-71eaac36e50b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'New Properties')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c4a7ed22-901c-45c9-beb8-306415b8ad13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en-ph/property-investments/</value>
+      <webElementGuid>8bb6296b-1ea3-447b-90c7-2fa1bb06afe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text</name>
+      <type>Main</type>
+      <value>New Properties</value>
+      <webElementGuid>f0c72250-9485-45a2-8b0b-345ca5b2b013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>omh-footer-menu-tracking</value>
+      <webElementGuid>1e825a09-95db-48b6-b623-8bf8bb9a3b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> New Properties </value>
+      <webElementGuid>24050f4c-e453-454a-8b90-304bfcd6133a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-13046 page-parent page-child parent-pageid-7046 no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-13046 elementor-page-51482 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-51482 elementor-location-single post-13046 page type-page status-publish hentry country-en-ph&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-3abfbd5 elementor-section-full_width hide-during-webview elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9a12298&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-1b52a17 elementor-widget elementor-widget-footer&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;footer-wrapper&quot;]/div[@class=&quot;footer-container&quot;]/div[@class=&quot;footer-middle-col&quot;]/div[@class=&quot;footer-menu-wrapper&quot;]/div[@class=&quot;footer-menu-block&quot;]/div[@class=&quot;footer-menu-item-container&quot;]/div[@class=&quot;footer-menu-item&quot;]/a[@class=&quot;omh-footer-menu-tracking&quot;]</value>
+      <webElementGuid>b23dca11-5bcc-4366-b979-42aa8529970d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New Properties')]</value>
+      <webElementGuid>1d33fe33-a652-4bad-b0ff-50c7bedeca4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/en-ph/property-investments/')])[21]</value>
+      <webElementGuid>4accbad3-8598-4216-8078-98f59d61a278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div[2]/div/div[2]/div[3]/div/a</value>
+      <webElementGuid>b3054c9b-3589-4d1b-a81f-0336d0eb1d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en-ph/property-investments/' and (text() = ' New Properties ' or . = ' New Properties ')]</value>
+      <webElementGuid>cc9e5eaa-f0b6-42be-a045-e7a19ecee3ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

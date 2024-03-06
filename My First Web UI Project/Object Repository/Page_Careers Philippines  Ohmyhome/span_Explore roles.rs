@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Explore roles</name>
+   <tag></tag>
+   <elementGuidId>7b113ad5-ce6b-4ee8-9a94-8ad76423bf16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='en_ph_banner_explore_roles']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.elementor-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d61b8d70-2d38-449c-bb5f-302f4289a168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-button-text</value>
+      <webElementGuid>7a835397-7191-4ca4-a1f5-db01f46695da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Explore roles</value>
+      <webElementGuid>b5d2ed02-ce6b-4255-867b-09e08b0304a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-32726 page-child parent-pageid-7046 no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-32726 elementor-page-51482 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-51482 elementor-location-single post-32726 page type-page status-publish hentry country-en-ph&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-3218ec4c elementor-section-full_width elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38089b6d&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-48b6f8cc elementor-widget elementor-widget-theme-post-content&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor elementor-32726&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-1275f762 elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3608ff3a&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-6b48a27e elementor-align-center ohmyhome-job-landing elementor-widget elementor-widget-button&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-button-wrapper&quot;]/a[@id=&quot;en_ph_banner_explore_roles&quot;]/span[@class=&quot;elementor-button-content-wrapper&quot;]/span[@class=&quot;elementor-button-text&quot;]</value>
+      <webElementGuid>217a0803-7228-4065-964d-b642320ceef2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='en_ph_banner_explore_roles']/span/span</value>
+      <webElementGuid>577a95d4-b976-43f0-85a0-fac9d8965687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>0dc1df5a-4866-4d3c-a091-f79f649d6aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Explore roles' or . = 'Explore roles')]</value>
+      <webElementGuid>49aae8ff-2117-499b-8828-d1aad018965a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

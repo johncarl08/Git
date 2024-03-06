@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Help Me With My Purchase</name>
+   <tag></tag>
+   <elementGuidId>acb6aa8f-8a00-4385-a44b-1abd540d5e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='en_sg_buy_agent_service_book_agent_banner'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-dcfbb04.elementor-mobile-align-left.elementor-widget__width-auto.elementor-widget-tablet__width-inherit.elementor-widget-mobile__width-inherit.elementor-widget.elementor-widget-button > div.elementor-widget-container > div.elementor-button-wrapper > #en_sg_buy_agent_service_book_agent_banner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>996da48a-d929-4355-9980-50c1c3f713ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-button elementor-button-link elementor-size-xs</value>
+      <webElementGuid>d1c5288c-4557-4311-8151-66760ca96801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ohmyhome.com/en-sg/property-agent-services/get-in-touch/</value>
+      <webElementGuid>1e870ce3-5023-4ebc-bc82-6a3d47349157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>en_sg_buy_agent_service_book_agent_banner</value>
+      <webElementGuid>1bb92d8e-9d3c-4df5-a1a2-ac5e248b33c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Help Me With My Purchase</value>
+      <webElementGuid>e5fee379-8ad6-4f0e-8330-a55410c38097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-57040 page-child parent-pageid-7077 no-sidebar elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-57040 elementor-page-51485 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-51485 elementor-location-single post-57040 page type-page status-publish hentry country-en-sg&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-40d7b841 elementor-section-full_width elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7eacb482&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-2582c8ce elementor-widget elementor-widget-theme-post-content&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor elementor-57040&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-cc985f3 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5df4b3f&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/section[@class=&quot;elementor-section elementor-inner-section elementor-element elementor-element-5348738 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-665508d&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-dcfbb04 elementor-mobile-align-left elementor-widget__width-auto elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-button-wrapper&quot;]/a[@id=&quot;en_sg_buy_agent_service_book_agent_banner&quot;]</value>
+      <webElementGuid>75613bc3-df0b-44d1-89cf-209edad06d48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='en_sg_buy_agent_service_book_agent_banner'])[2]</value>
+      <webElementGuid>7b5fafb5-36c2-4d6e-9871-3dd4a512e74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ohmyhome.com/en-sg/property-agent-services/get-in-touch/')]</value>
+      <webElementGuid>f1223c2a-5a50-4e67-8378-4e45cd614ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[5]/div/div/a</value>
+      <webElementGuid>a89e0b08-ac2e-4040-9e34-b9f19e8cc8ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ohmyhome.com/en-sg/property-agent-services/get-in-touch/' and @id = 'en_sg_buy_agent_service_book_agent_banner' and (text() = 'Help Me With My Purchase' or . = 'Help Me With My Purchase')]</value>
+      <webElementGuid>9fc686b8-66df-4243-bb0e-147ec35ccd9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

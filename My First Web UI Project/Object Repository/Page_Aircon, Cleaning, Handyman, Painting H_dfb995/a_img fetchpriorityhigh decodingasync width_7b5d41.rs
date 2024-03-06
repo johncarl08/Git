@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_img fetchpriorityhigh decodingasync width_7b5d41</name>
+   <tag></tag>
+   <elementGuidId>1aa14f91-509a-4be2-b2fd-3378d5915908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementor-tab-content-3841']/div/div/div/section/div/div/div/section/div/div/div/div/div/div/figure/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>figure.elementor-image-box-img > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a0853a23-d74a-43e2-b01e-ee5b5c09ebe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.thedreamrproject.com</value>
+      <webElementGuid>e6c07197-a54d-4c58-94b6-55ee6eb61e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>1970ca84-6ea2-4bf1-8408-cf8bd3cd49c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8733c9fc-6cae-47b7-a435-cad5763017d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;img fetchpriority=&quot;high&quot; decoding=&quot;async&quot; width=&quot;284&quot; height=&quot;190&quot; src=&quot;https://ohmyhome.com/wp-content/uploads/2021/07/services.png&quot; class=&quot;attachment-full size-full wp-image-10798&quot; alt=&quot;&quot; /></value>
+      <webElementGuid>f514884b-1141-49b9-942e-6015705e3a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementor-tab-content-3841&quot;)/div[@class=&quot;omh-elementor-page-wrap&quot;]/div[1]/div[@class=&quot;elementor elementor-11471&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-7fa1962 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b311e9&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/section[@class=&quot;elementor-section elementor-inner-section elementor-element elementor-element-deef546 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f93aaad&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-cf3ca8b elementor-widget-mobile__width-inherit elementor-position-top elementor-widget elementor-widget-image-box&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-image-box-wrapper&quot;]/figure[@class=&quot;elementor-image-box-img&quot;]/a[1]</value>
+      <webElementGuid>73bdea1b-e3c1-4613-9a97-52de4e5d674f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementor-tab-content-3841']/div/div/div/section/div/div/div/section/div/div/div/div/div/div/figure/a</value>
+      <webElementGuid>ceda489c-dbbf-439a-86d0-b7dc12675547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.thedreamrproject.com')])[5]</value>
+      <webElementGuid>94f63049-0425-4f1b-8f2f-99721c37fa3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/a</value>
+      <webElementGuid>886d8307-916e-4098-9f58-6fb27c146bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.thedreamrproject.com' and (text() = '&lt;img fetchpriority=&quot;high&quot; decoding=&quot;async&quot; width=&quot;284&quot; height=&quot;190&quot; src=&quot;https://ohmyhome.com/wp-content/uploads/2021/07/services.png&quot; class=&quot;attachment-full size-full wp-image-10798&quot; alt=&quot;&quot; />' or . = '&lt;img fetchpriority=&quot;high&quot; decoding=&quot;async&quot; width=&quot;284&quot; height=&quot;190&quot; src=&quot;https://ohmyhome.com/wp-content/uploads/2021/07/services.png&quot; class=&quot;attachment-full size-full wp-image-10798&quot; alt=&quot;&quot; />')]</value>
+      <webElementGuid>691bacde-7354-4bbc-8d73-1ab79ff4b166</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
